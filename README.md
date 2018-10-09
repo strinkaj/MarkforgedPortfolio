@@ -1,2 +1,2 @@
-# MarkforgedPortfolio
-Portfolio for applying to Markforged
+# Portfolio
+Portfolio for Joe Strinka
